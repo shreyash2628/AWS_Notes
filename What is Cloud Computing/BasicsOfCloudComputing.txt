@@ -1,0 +1,13 @@
+-What is cloud computing?
+-cloud computing is on demand accessibility of computing power , database , infrastructure,softwares,storages and other IT resources.
+
+-Types of cloud?
+-i> Private cloud
+ - Cloud service used my single organization , not used by general public.
+
+ ii> Public Cloud
+ - Cloud services/resources accessible by anybody over the internet and it is own and managed by third party services.
+   ex-Amazon AWS.
+
+ iii> Hybrid Cloud  
+ - Keeping some services private and also taking leverage of public cloud together is called Hybrd cloud.
